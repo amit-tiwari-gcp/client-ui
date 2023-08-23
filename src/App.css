@@ -6,6 +6,14 @@
   height: 40vmin;
   pointer-events: none;
 }
+.heading_2 {
+  color:#173d8a;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+.formfield {
+margin: 10px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -14,7 +22,7 @@
 }
 
 .App-header {
-  background-color: #1043aa;
+  background-color: #184db8;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
